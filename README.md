@@ -1,4 +1,6 @@
-# Stopwatch
+# PRODIGY_WD_02
+
+## Stopwatch
 
 ### [Live Site](https://debgambit.github.io/PRODIGY_WD_02/)
 
